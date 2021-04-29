@@ -4,7 +4,7 @@ test_score_1 = 90
 
 id_2 = "#5"
 average_grade_2 = "A"
-test_score_2 = 90
+test_score_2 = 80
 
 no_duplicates = id_1 != id_2
 print("No duplicate entries:")
